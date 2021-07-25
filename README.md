@@ -1,7 +1,7 @@
-# Multi-dimensional Affect in Poetry (POCA)Dataset: Acquisition, Annotation and BaselineResults [ACII '21]
+# Multi-dimensional Affect in Poetry (POCA) Dataset [ACII '21]
 
 Annotations are seperated into:
-*  In-Lab Study
+*  In-Lab Study 
 *  Online Study
 *  Mechanical Turk (Additional Online Study) 
 
