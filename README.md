@@ -1,4 +1,6 @@
-# Multi-dimensional Affect in Poetry (POCA) Dataset [ACII '21]
+# Multi-dimensional Affect in Poetry Dataset [ACII '21]
+
+Supplmentary material for Multi-dimensional Affect in Poetry (POCA)Dataset: Acquisition, Annotation and BaselineResults paper by Khan, Hopkins and Gunes.
 
 Annotations are seperated into:
 *  In-Lab Study 
